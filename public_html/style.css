@@ -1,0 +1,9 @@
+@font-face {
+font-family: "fuente";
+src: url(DS-DIGIT.ttf);
+}
+.letra{
+    font-family: fuente;
+    font-size: 50px;
+    font-weight: bold;
+}
